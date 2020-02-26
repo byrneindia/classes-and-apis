@@ -11,5 +11,6 @@ let y = {
 	num: 10,
 };
 
+
 x(y);
 console.log(y);
